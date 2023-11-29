@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**boroda4436/boroda4436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Senior Software Engineer 👨🏻‍💻
+- 🔭 I’m currently working at [Mate academy](https://mate.academy/)
+- 💬 Ask me about Java, Spring Boot, Hibernate, Cloud
+- ⚡ Fun fact: I bought a car, but I didn't know how to drive it 🙂
 
-Here are some ideas to get you started:
+### Top Technologies 🔧
+- Java 8-21
+- Spring Boot (Web, Security, Data JPA, etc)
+- AWS, Docker, Kubernetes
+- PostgreSQL, MySQL, DynamoDB
+- Kafka, RabbitMQ
+- Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Where you can find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdanchupika/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boroda4436/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@boroda4436)
