@@ -5,6 +5,10 @@
 - 💬 Ask me about Java, Spring Boot, Hibernate, Cloud
 - ⚡ Fun fact: I bought a car, but I didn't know how to drive it 🙂
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=boroda4436)
+![folowers](https://img.shields.io/github/followers/boroda4436?color=green&logo=github)
+
+
 ### Top Technologies 🔧
 - Java 8-21
 - Spring Boot (Web, Security, Data JPA, etc)
